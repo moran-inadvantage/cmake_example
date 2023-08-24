@@ -1,0 +1,1 @@
+int lib2_test_function();
